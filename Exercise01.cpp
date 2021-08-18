@@ -1,7 +1,8 @@
 #include <iostream>
 #include "Student.h"
 using namespace std;
-int main() {
+int main()
+{
   
 // == DO NOT CHANGE THE MAIN PROGRAM =================
    Student mystd;
